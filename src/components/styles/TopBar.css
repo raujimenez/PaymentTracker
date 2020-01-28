@@ -1,0 +1,28 @@
+#TopBar {
+    margin: 0;
+    padding: 10px ;
+    background-color: #1b90be;
+}
+
+li {
+    padding: 0.1rem 0.2rem;
+    display: inline-block;
+    list-style-type: none;
+    list-style: none;
+}
+
+#GitHub {
+    padding: 10px;
+    display: inline-block;
+    float: left;
+}
+
+#PageName {
+    padding: 10px;
+    float: center;
+}
+
+#Settings {
+    padding: 10px;
+    float: right;
+}
